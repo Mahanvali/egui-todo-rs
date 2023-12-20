@@ -7,4 +7,4 @@ cargo run
 ```
 As of now it doesn't store data, I hope in the future I can implement this.
 
-![hello](https://imgur.com/a/FSMZmEd)
+![hello](https://i.imgur.com/Gk54gDE.gif)
